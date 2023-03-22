@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **WaiterAPP (JStack)**
 
-- 🌱 I’m currently learning **React Native using Typescript and mobile development**
+- 🌱 I’m currently learning **React using Typescript and mobile development**
 
 - 🤝 I’m looking to help with **anything**
 
