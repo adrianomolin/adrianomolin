@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native using Typescript and mobile development**
 
-- 🤝 I’m looking for help with **anything**
+- 🤝 I’m looking to help with **anything**
 
 - 👨‍💻 All of my projects are available at [github.com/adrianomolin](github.com/adrianomolin)
 
