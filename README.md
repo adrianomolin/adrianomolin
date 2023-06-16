@@ -3,7 +3,7 @@
 </div>  
   
 
-**<div align="center">Welcome to my profile - I'm a passionate for the world of technology</div>**  
+**<div align="center">Welcome to my profile <br />I'm a passionate developer in the world of technology</div>**  
   
 
 - ☄️ I’m currently a Javascript Intern for OnSignTV  
