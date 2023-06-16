@@ -1,14 +1,18 @@
 <div align="center">
 <img src="https://i.imgur.com/XjyWH35.png" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-**<div align="center">Welcome to my profile <br />I'm a passionate developer in the world of technology</div>**  
+**<div align="center">Welcome to my profile <br />I'm a passionate developer in the world of technology</div>**
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-### Frontend  
-<div align="center">  
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
+<div align="center">
+Frontend
+</div>
+<br />
+<div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -22,8 +26,10 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
-### Backend  
+</td>
+  <td valign="top" width="25%">
+<div align="center">Backend</div>
+<br /> 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -37,8 +43,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-### DevOps  
+</td></tr></table>  
+
+<table align="center"><tr>
+<td valign="top" align="center">
+<div align="center">DevOps</div>
+<br />
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -48,9 +58,12 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
 <br/>  
-### Let's connect
+<div align="center">Let's connect</div>
+<br />
 <div align="center">
 <a href="https://github.com/adrianomolin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -70,6 +83,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adrianomolin&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
