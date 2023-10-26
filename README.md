@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.imgur.com/XjyWH35.png" align="center" style="width: 100%" />
-</div>
-
 **<div align="center">Welcome to my profile <br />I'm a passionate developer in the world of technology</div>**
 <br/>  
 
