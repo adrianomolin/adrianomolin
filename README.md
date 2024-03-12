@@ -2,45 +2,61 @@
 
 **<div align="center">Welcome to my profile <br />I'm a passionate developer in the world of technology</div>**
 <br/>  
-
-<table width="100%">
+<div align="center">Some of my Stack 📚</div>
+<br />
+<table width="100%" align="center">
   <tr>
-    <div align="center">Techs</div>
-    <br />
-    <div align="center">
+    <td colspan="4" align="center">
       <a href="https://reactjs.org/" class="margin" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="56" />
       </a> 
+    </td>
+    <td colspan="2" align="center">
       <a href="https://www.typescriptlang.org/" class="margin" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="56" />
       </a>  
+    </td>
+    <td colspan="1">
       <a href="https://www.python.org/" target="_blank">
        <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="56" />
       </a>  
+    </td>
+    <td colspan="2" align="center">
       <a href="https://nodejs.org/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="56" />
       </a> 
-      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
       <a href="https://expressjs.com/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="56" />
       </a>  
+    </td>
+    <td colspan="2" align="center">
       <a href="https://www.mysql.com/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="56" />
       </a>  
+    </td>
+    <td colspan="1" align="center">
       <a href="https://www.mongodb.com/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="56" />
       </a>  
+    </td>
+    <td colspan="1" align="center">
       <a href="https://www.docker.com/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="56" />
       </a>  
+    </td>
+    <td colspan="1" align="center">
       <a href="https://cloud.google.com/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="56" />
-      </a>  
-    </div>
+      </a> 
+    </td>
   </tr>
 </table>  
 <br/>  
-<div align="center">Let's connect</div>
+<div align="center">Connect with me</div>
 <br />
   <div align="center">
     <a href="https://github.com/adrianomolin" target="_blank">
