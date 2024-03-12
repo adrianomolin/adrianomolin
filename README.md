@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 **<div align="center">Welcome to my profile <br />I'm a passionate developer in the world of technology</div>**
 <br/>  
 
@@ -6,8 +8,8 @@
     <div align="center">Techs</div>
     <br />
     <div align="center">
-      <a href="https://reactjs.org/" target="_blank">
-        <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="56" />
+      <a href="https://reactjs.org/" class="margin" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="56" />
       </a> 
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="56" />
