@@ -11,8 +11,8 @@
       <a href="https://reactjs.org/" class="margin" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="56" />
       </a> 
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="56" />
+      <a href="https://www.typescriptlang.org/" class="margin" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="56" />
       </a>  
       <a href="https://www.python.org/" target="_blank">
        <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="56" />
